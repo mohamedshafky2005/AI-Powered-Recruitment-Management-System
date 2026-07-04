@@ -269,11 +269,9 @@ Software Engineering Undergraduate
 
 📍 Sri Lanka
 
-LinkedIn:
-[(Add your LinkedIn profile)](https://www.linkedin.com/in/mk-mohamed-shafky-b08677330/)
+LinkedIn: https://www.linkedin.com/in/mk-mohamed-shafky-b08677330/
 
-GitHub:
-[(Add your GitHub profile)](https://github.com/mohamedshafky2005)
+GitHub: https://github.com/mohamedshafky2005
 
 ---
 
