@@ -263,17 +263,17 @@ mvn spring-boot:run
 
 ## 👨‍💻 Author
 
-**SM Kathafy**
+**MKM.Shafky**
 
 Software Engineering Undergraduate
 
 📍 Sri Lanka
 
 LinkedIn:
-(Add your LinkedIn profile)
+[(Add your LinkedIn profile)](https://www.linkedin.com/in/mk-mohamed-shafky-b08677330/)
 
 GitHub:
-(Add your GitHub profile)
+[(Add your GitHub profile)](https://github.com/mohamedshafky2005)
 
 ---
 
